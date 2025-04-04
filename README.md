@@ -16,3 +16,9 @@
 | 网卡+蓝牙 | Intel Dual Band Wireless-AC 3165 |
 | 声卡      | Conexant CX20751/2               |
 | 屏幕      | 15.6" LCD 1920 x 1080            |
+
+## ✨ 还没写完
+等待更新\
+蓝牙 wifi 电池 usb hdmi 触控板等都能工作，\
+icloud也可以通过特定方法登录，直接从设置是无法登录的，\
+具体方法就是先去App Store登录Apple ID，然后再去邮件里面登录，过一会就会自动登录上icloud了
