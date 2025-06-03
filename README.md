@@ -1,5 +1,5 @@
 # Lenovo-Xiaoxin-310-15IKB-EFI
-联想小新310-15ikb的黑苹果完美EFI，Lenovo Xiaoxin 310-15IKB macOS perfect EFI\
+联想小新310-15ikb的黑苹果完美EFI，Lenovo Xiaoxin 310-15IKB macOS Hackintosh EFI\
 \
 ![image](images/系统版本.png)
 
